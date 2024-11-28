@@ -9,6 +9,20 @@ This data analysis looks at information taken from personal Telegram activity to
 * Social Psychology Insights: Complement the analysis with relevant insights from social psychology, providing references to established studies that offer explanations for observed results on the charts. These references help interpret patterns, such as communication preferences, social group dynamics, and gendered interactions, within a broader psychological framework.
 * Data-Driven Decision Making: use data visualization and advanced processing techniques, such as natural language processing (NLP) and TF-IDF analysis, to quantify interaction trends and evaluate personal priorities.
 
+### Requirements:
+1. Python 3.9+
+2. pandas
+3. numpy 
+4. matplotlib 
+5. pywaffle
+6. plotly 
+7. tqdm
+8. scikit-learn
+9. telethon
+10. datetime
+    
+**Make sure to install these packages using pip install or a requirements file to ensure compatibility.**
+
 ### Description of Technologies Used
 This project relies on a variety of Python libraries and frameworks to analyze, clean, and visualize data extracted from Telegram. Here’s an overview of the key tools and their purpose:
 

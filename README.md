@@ -9,6 +9,8 @@ This data analysis looks at information taken from personal Telegram activity to
 * Social Psychology Insights: Complement the analysis with relevant insights from social psychology, providing references to established studies that offer explanations for observed results on the charts. These references help interpret patterns, such as communication preferences, social group dynamics, and gendered interactions, within a broader psychological framework.
 * Data-Driven Decision Making: use data visualization and advanced processing techniques, such as natural language processing (NLP) and TF-IDF analysis, to quantify interaction trends and evaluate personal priorities.
 
+Script for collecting the data from Telegram by [Andrew Kurochkin](https://github.com/SanGreel).
+
 ### Requirements:
 1. Python 3.9+
 2. pandas
